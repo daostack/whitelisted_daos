@@ -1,2 +1,2 @@
 # daos
-list of indexed daos by daostack
+whitelisted daostack's daos
